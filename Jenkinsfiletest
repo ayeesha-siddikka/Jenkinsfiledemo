@@ -20,6 +20,7 @@ pipeline {
         stage('Release') {
             steps {
                 echo 'Releasing'
+                echo 'thank you'
             }
         }
     }
